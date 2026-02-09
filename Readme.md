@@ -63,7 +63,7 @@ dockerized-flask-mysql-app
 - Docker
 - Docker Compose
 
-🔁 CI Pipeline (GitHub Actions)
+## 🔁 CI Pipeline (GitHub Actions)
 
 This project uses GitHub Actions for Continuous Integration.
 
@@ -77,7 +77,7 @@ Builds the Docker image using the Dockerfile
 
 This ensures that Docker builds do not break as the code evolves.
 
-📌 Learning Outcomes
+## 📌 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -93,7 +93,7 @@ Setting up CI pipelines using GitHub Actions
 
 Understanding real-world DevOps workflows
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 Add automated tests to CI pipeline
 
@@ -103,7 +103,7 @@ Deploy application to AWS EC2
 
 Add monitoring and logging
 
-👤 Author
+## 👤 Author
 
 Hirakjyoti Das
 
